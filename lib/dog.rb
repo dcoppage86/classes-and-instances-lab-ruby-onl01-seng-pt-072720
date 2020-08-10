@@ -2,5 +2,5 @@ class Dog
 end
 
 fido = Dog.new
-Brutus = Dog.new
-Nutzz = Dog.new
+brutus = Dog.new
+nutzz = Dog.new
